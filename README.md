@@ -1,6 +1,7 @@
 # friendfinder
 
-#App that matches you up with others based on comparing your survey score results with others stored in the api friends page.
+# App that matches you up with others based on comparing your survey score results with others stored in the api friends page.
+
 The home page has a button, which when clicked takes you to the 10 question survey.
 
 You first must give your name and a valid link to your photo.
